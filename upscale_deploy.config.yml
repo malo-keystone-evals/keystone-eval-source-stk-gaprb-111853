@@ -1,0 +1,7 @@
+components:
+  - keystone
+base:
+  name: keystone-eval-source-stk-gaprb-111853
+environments:
+  production:
+    context: rehearsal-cluster
